@@ -16,6 +16,18 @@
 /Game/Athena/Playlists/Playlist_DefaultDuo.Playlist_DefaultDuo
 ```
 
+## Trios
+
+```
+/Game/Athena/Playlists/Trios/Playlist_Trios.Playlist_Trios
+```
+
+## Squads
+
+```
+/Game/Athena/Playlists/Playlist_DefaultSquad.Playlist_DefaultSquad
+```
+
 ---
 
 # Arena
@@ -163,6 +175,60 @@ Solo / Duos / Squads
 /Game/Athena/Playlists/Blades/Playlist_Blades_Solo.Playlist_Blades_Solo
 /Game/Athena/Playlists/Blades/Playlist_Blades_Duos.Playlist_Blades_Duos
 /Game/Athena/Playlists/Blades/Playlist_Blades_Squad.Playlist_Blades_Squad
+```
+
+## Score Royale (8.51)
+
+*A brand new take on earning a Victory Royale, this mode rewards players who like to explore and search for loot. Earn points by collecting coins, opening loot containers, using foraged items and eliminating other players. The first to get to the Winning Score wins!*
+
+```
+/Game/Athena/Playlists/Score/Playlist_Score_Solo.Playlist_Score_Solo
+/Game/Athena/Playlists/Score/Playlist_Score_Duos.Playlist_Score_Duos
+/Game/Athena/Playlists/Score/Playlist_Score_Squads.Playlist_Score_Squads
+```
+
+## Catch! (8.51)
+
+*In this mode, all guns have been removed. The only weapons are grenades and other items that can be thrown or tossed. Get in there and throw the enemies back to the lobby!*
+
+```
+/Game/Athena/Playlists/Toss/Playlist_Toss_Solo.Playlist_Toss_Solo
+/Game/Athena/Playlists/Toss/Playlist_Toss_Duos.Playlist_Toss_Duos
+/Game/Athena/Playlists/Toss/Playlist_Toss_Squads.Playlist_Toss_Squads
+```
+
+## NFL Rumble (8.51)
+
+*Represent one of the two teams from the Big Game by fighting for the Victory Royale in an action-packed mode where the first team to get 100 eliminations wins!*
+
+```
+/Game/Athena/Playlists/Omaha/Playlist_Omaha.Playlist_Omaha
+```
+
+## Reverse Gun Game (8.51)
+
+*All players start with the same powerful weapon. Eliminating a player grants a weapon of slightly lesser power. The first to make it through every weapon, from best to worst, earns the Victory Royale!*
+
+```
+/Game/Athena/Playlists/gg/Playlist_Gg_Reverse.Playlist_Gg_Reverse
+```
+
+## Ice Storm (8.51)
+
+*Go it alone in a battle to be the last one standing.*
+
+```
+/Game/Athena/Playlists/Deimos/Playlist_Deimos_Solo_Winter.Playlist_Deimos_Solo_Winter
+/Game/Athena/Playlists/Deimos/Playlist_Deimos_Duo_Winter.Playlist_Deimos_Duo_Winter
+/Game/Athena/Playlists/Deimos/Playlist_Deimos_Squad_Winter.Playlist_Deimos_Squad_Winter
+```
+
+## 50v50 (8.51)
+
+*Two teams of fifty players fight to the finish! This mode has extra loot and resources, a storm that is more lethal, and a shorter match length time than the standard Battle Royale modes. Each team drops from their own Battle Bus. Get in and help your team to victory!*
+
+```
+/Game/Athena/Playlists/50v50/Playlist_50v50.Playlist_50v50
 ```
 
 ## Endgame (8.51)
