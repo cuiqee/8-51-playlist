@@ -6,6 +6,7 @@ slide: /Game/Athena/Playlists/Playlist_Slide_Solo.Playlist_Slide_Solo
 Solid gold: /Game/Athena/Playlists/Playlist_SolidGold_Solo.Playlist_SolidGold_Sol
 Unvaulted: /Game/Athena/Playlists/Playlist_Unvaulted_Solo.Playlist_Unvaulted_Solo
 
+```
 gateaway: /Game/Athena/Playlists/Bling/Playlist_Bling_Solo.Playlist_Bling_Solo
 siphon: /Game/Athena/Playlists/Vamp/Playlist_Vamp_Solo.Playlist_Vamp_Solo
 close encounters: /Game/Athena/Playlists/Shotguns/Playlist_Close_Solo.Playlist_Close_Solo
