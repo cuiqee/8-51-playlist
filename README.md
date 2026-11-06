@@ -4,13 +4,13 @@
 
 # Core Battle Royale
 
-## Solos (8.51)
+## Solos
 
 ```
 /Game/Athena/Playlists/Playlist_DefaultSolo.Playlist_DefaultSolo
 ```
 
-## Duos (8.51)
+## Duos
 
 ```
 /Game/Athena/Playlists/Playlist_DefaultDuo.Playlist_DefaultDuo
@@ -30,12 +30,8 @@
 /Game/Athena/Playlists/Showdown/Playlist_ShowdownAlt_Trios.Playlist_ShowdownAlt_Trios
 /Game/Athena/Playlists/Showdown/Playlist_ShowdownAlt_Squads.Playlist_ShowdownAlt_Squads
 ```
+___________
 
----
-
-# Limited Time Modes
-
-One mode is live at a time. The rotation changes every Friday at 00:00 (New York time).
 
 ## Solid Gold (8.51)
 
